@@ -1,0 +1,450 @@
+{
+    "1": {
+        "galego": "á f",
+        "dominio": "Anatomía",
+        "es": "ala\n",
+        "en": "wing\n",
+        "pt": "asa\n",
+        "la": "ala\n"
+    },
+    "2": {
+        "galego": "a termo      a",
+        "dominio": "Fisioloxía",
+        "es": "a término\n",
+        "en": "full term\n",
+        "pt": "a termo\n"
+    },
+    "3": {
+        "sin": " rexión abdominal (f); panza [pop.]\n",
+        "galego": "abdome      m",
+        "dominio": "Anatomía",
+        "es": "abdomen; panza [pop.]; región\n\t\t\t\t abdominal\n",
+        "en": "abdomen; abdominal region; gut\n\t\t\t\t [pop.]\n",
+        "pt": "abdome; abdômen [Br.];\nabdómen [Pt.]; barriga [pop.];\nregião abdominal\n",
+        "la": "abdomen\n"
+    },
+    "4": {
+        "galego": "abdome agudo      m",
+        "dominio": "\t\t\t Semioloxía",
+        "es": "abdomen agudo\n",
+        "en": "acute abdomen\n",
+        "pt": "abdome agudo; abdômen agudo\n\t\t\t\t [Br.]; abdómen agudo [Pt.]\nabdome distendido      \nVid.- abdome globuloso\n"
+    },
+    "5": {
+        "sin": " ventre de madeira\n",
+        "galego": "abdome en táboa      m",
+        "dominio": "Semioloxía",
+        "es": "abdomen en tabla\n",
+        "en": "abdominal guarding\n",
+        "pt": "abdome em tábua; abdômen em\n\t\t\t\t tábua [Br.]; abdómen em tábua [Pt.]\n"
+    },
+    "6": {
+        "sin": " abdome prominente; abdome\n\t\t distendido\n",
+        "galego": "abdome globuloso      m",
+        "dominio": "Semioloxía",
+        "es": "abdomen distendido; abdomen\n\t\t\t\t globuloso; abdomen prominente\n",
+        "en": "distended abdomen\n",
+        "pt": "abdome distendido; abdômen\n\t\t\t\t distendido [Br.]; abdómen\n\t\t\t\t distendido [Pt.]\nabdome prominente      \nVid.- abdome globuloso\n\t\t *abducción      Vid.- abdución\n"
+    },
+    "7": {
+        "nota": " Evítese “abducción”.\naberración cromosómica      \nVid.- anomalía cromosómica\n",
+        "sin": " separación\n",
+        "galego": "abdución      f",
+        "dominio": "\t\t Fisioloxía        Anatomía",
+        "es": "abducción; separación\n",
+        "en": "abduction\n",
+        "pt": "abdução; separação\n",
+        "la": "abductio\n"
+    },
+    "8": {
+        "sin": " estreito inferior da pelve (m)\n",
+        "galego": "abertura inferior da pelve      f",
+        "dominio": "Anatomía",
+        "es": "estrecho inferior de la pelvis\n",
+        "en": "pelvic outlet\n",
+        "pt": "abertura inferior da pelve; estreito\n\t\t\t\t inferior da pelve\n",
+        "la": "apertura pelvis inferior\n"
+    },
+    "9": {
+        "sin": " estreito superior da pelve (m)\n",
+        "galego": "abertura superior da pelve      f",
+        "dominio": "Anatomía",
+        "es": "estrecho superior de la pelvis\n",
+        "en": "pelvic inlet\n",
+        "pt": "abertura superior da pelve; estreito\n\t\t\t\t superior da pelve\n",
+        "la": "apertura pelvis superior\fVocabulario\n22\n"
+    },
+    "10": {
+        "galego": "ablación      f",
+        "dominio": "\t\t Terapéutica",
+        "es": "ablación\n",
+        "en": "ablation\n",
+        "pt": "ablação\nablación do clítoris      \nVid.- clitoridectomía\n"
+    },
+    "11": {
+        "galego": "abordaxe      f",
+        "dominio": "\t\t Terapéutica",
+        "es": "abordaje\n",
+        "en": "approach\n",
+        "pt": "abordagem\n\t\t abrasión      Vid.- erosión\n"
+    },
+    "12": {
+        "galego": "absceso      m",
+        "dominio": "\t\t Semioloxía        Anatomía patolóxica",
+        "es": "absceso\n",
+        "en": "abscess\n",
+        "pt": "abscesso\n"
+    },
+    "13": {
+        "galego": "abulia      f",
+        "dominio": "Semioloxía",
+        "es": "abulia\n",
+        "en": "aboulia; abulia\n",
+        "pt": "abulia\n"
+    },
+    "14": {
+        "galego": "abuso de substancias      m",
+        "dominio": "\t\t Termos xerais",
+        "es": "abuso de sustancias\n",
+        "en": "substance abuse\n",
+        "pt": "abuso de substâncias\nAc      Vid.- anticorpo\n\t\t\t ACA      Vid.- arteria cerebral anterior\nacabado -da de nacer     \nVid.- neonato -ta\n"
+    },
+    "15": {
+        "galego": "acalasia      f",
+        "dominio": "\t\t Patoloxías",
+        "es": "acalasia\n",
+        "en": "achalasia\n",
+        "pt": "acalasia; acalásia\n"
+    },
+    "16": {
+        "galego": "acantólise      f",
+        "dominio": "\t\t Semioloxía",
+        "es": "acantolisis\n",
+        "en": "acantholysis\n",
+        "pt": "acantólise\n"
+    },
+    "17": {
+        "galego": "acantose nigricans      f",
+        "dominio": "\t\t Patoloxías",
+        "es": "acantosis nigricans\n",
+        "en": "acanthosis nigricans\n",
+        "pt": "acantose nigricans\n"
+    },
+    "18": {
+        "galego": "ácaro      m",
+        "dominio": "Etiopatoxenia",
+        "es": "ácaro\n",
+        "en": "acarus\n",
+        "pt": "ácaro\nacceso      Vid.- ataque\naccidente cerebrovascular      \nVid.- ictus\n"
+    },
+    "19": {
+        "sin": " accidente laboral\n",
+        "galego": "accidente de traballo      m",
+        "dominio": "\t\t Termos xerais",
+        "es": "accidente de trabajo; accidente\n\t\t\t\t laboral\n",
+        "en": "work accident\n",
+        "pt": "acidente de trabalho\fVocabulario\n23\n"
+    },
+    "20": {
+        "sin": " ataque isquémico transitorio;AIT\n\t\t (sg)\n",
+        "galego": "accidente isquémico",
+        "dominio": "transitorio      m",
+        "es": "accidente isquémico transitorio; AIT\n\t\t\t\t (sg); ataque isquémico transitorio\n",
+        "en": "TIA (sg); transient ischemic attack\n",
+        "pt": "acidente isquêmico transitório; AIT\n\t\t\t\t (sg); ataque isquêmico transitório\n\t\t accidente laboral      \nVid.- accidente de traballo\n\t\t accidente vascular cerebral      \nVid.- ictus\nacedía Vid.- pirose\nacedume Vid.- pirose\n"
+    },
+    "21": {
+        "galego": "aceptación      f",
+        "dominio": "Fisioloxía",
+        "es": "aceptación\n",
+        "en": "acceptance\n",
+        "pt": "aceitação\n"
+    },
+    "22": {
+        "sin": " cavidade cotiloide (f)\n",
+        "galego": "acetábulo      m",
+        "dominio": "Anatomía",
+        "es": "acetábulo; cavidad cotiloidea\n",
+        "en": "acetabulum; cotyloid cavity\n",
+        "pt": "acetábulo; cavidade cotilóide\n",
+        "la": "acetabulum\nacetaminofén      Vid.- paracetamol\nacetil-CoA      Vid.- acetilcoenzimaA\n"
+    },
+    "23": {
+        "sin": " acetil-CoA\n",
+        "galego": "acetilcoenzima A      m",
+        "dominio": "\t\t Bioquímica",
+        "es": "acetil-CoA; acetil-coenzima A\n",
+        "en": "acetyl-CoA; acetyl-coenzyme A\n",
+        "pt": "acetil-CoA; acetil-coenzima A\n"
+    },
+    "24": {
+        "sin": "ACh (sb)\n",
+        "galego": "acetilcolina      f",
+        "dominio": "\t\t\t Bioquímica        Fisioloxía",
+        "es": "acetilcolina\n",
+        "en": "acetylcholine\n",
+        "pt": "acetilcolina\nACh      Vid.- acetilcolina\nacía      Vid.- pirose\n"
+    },
+    "25": {
+        "galego": "acidemia      f",
+        "dominio": "\t\t Semioloxía",
+        "es": "acidemia\n",
+        "en": "acidemia\n",
+        "pt": "acidemia\nacidez      Vid.- pirose\n"
+    },
+    "26": {
+        "galego": "acidificación      f",
+        "dominio": "\t\t Terapéutica",
+        "es": "acidificación\n",
+        "en": "acidification\n",
+        "pt": "acidificação\n"
+    },
+    "27": {
+        "galego": "acidificante      m",
+        "dominio": "Farmacoloxía",
+        "es": "acidificante\n",
+        "en": "acidifier\n",
+        "pt": "acidificante\fVocabulario\n24\n"
+    },
+    "28": {
+        "galego": "ácido acetilsalicílico      m",
+        "dominio": "\t\t Farmacoloxía",
+        "es": "ácido acetilsalicílico\n",
+        "en": "acetylsalicylic acid\n",
+        "pt": "ácido acetilsalicílico\nácido aminoacético      Vid.- glicina\n"
+    },
+    "29": {
+        "galego": "ácido aminosalicílico      m",
+        "dominio": "\t\t Farmacoloxía",
+        "es": "ácido aminosalicílico\n",
+        "en": "aminosalicylic acid\n",
+        "pt": "ácido aminossalicílico\n"
+    },
+    "30": {
+        "galego": "ácido araquidónico      m",
+        "dominio": "\t\t Bioquímica",
+        "es": "ácido araquidónico\n",
+        "en": "arachidonic acid\n",
+        "pt": "ácido araquidônico [Br.]; ácido\n\t\t\t\t araquidónico [Pt.]\nácido ascórbico      Vid.- vitamina C\n"
+    },
+    "31": {
+        "sin": "Asp (sb)\n",
+        "galego": "ácido aspártico      m",
+        "dominio": "Bioquímica",
+        "es": "ácido aspártico\n",
+        "en": "aspartic acid\n",
+        "pt": "ácido aspártico\n"
+    },
+    "32": {
+        "galego": "ácido biliar      m",
+        "dominio": "\t\t Bioquímica",
+        "es": "ácido biliar\n",
+        "en": "bile acid\n",
+        "pt": "ácido biliar\n"
+    },
+    "33": {
+        "sin": " HCl (sb)\n",
+        "galego": "ácido clorhídrico      m",
+        "dominio": "\t\t Bioquímica        Fisioloxía",
+        "es": "ácido clorhídrico\n",
+        "en": "hydrochloric acid\n",
+        "pt": "ácido clorídrico\n"
+    },
+    "34": {
+        "sin": "ADN; (sg) DNA(sg)\n",
+        "galego": "ácido desoxirribonucleico      m",
+        "dominio": "\t\t Bioquímica",
+        "es": "ácido desoxirribonucleico;\nADN (sg); DNA (sg)\n",
+        "en": "deoxyribonucleic acid;\ndeoxyribonucleic acid; DNA (sg)\n",
+        "pt": "ácido desoxirribonucléico;\nADN (sg); DNA (sg)\n"
+    },
+    "35": {
+        "galego": "ácido fólico      m",
+        "dominio": "\t\t Bioquímica",
+        "es": "ácido fólico\n",
+        "en": "folic acid\n",
+        "pt": "ácido fólico\n"
+    },
+    "36": {
+        "sin": " GABA(sg)\n",
+        "galego": "ácido gamma-aminobutírico     m",
+        "dominio": "\t\t Bioquímica        Fisioloxía",
+        "es": "ácido gamma-aminobutírico;\nGABA (sg)\n",
+        "en": "GABA (sg); gamma-aminobutyric\n\t\t\t\t acid\n",
+        "pt": "ácido gama-aminobutírico;\nGABA (sg)\n"
+    },
+    "37": {
+        "sin": " glutamato; Glu (sb)\n",
+        "galego": "ácido glutámico      m",
+        "dominio": "\t\t Bioquímica        Fisioloxía",
+        "es": "ácido glutámico; glutamato\n",
+        "en": "glutamate; glutamic acid\n",
+        "pt": "ácido glutâmico [Br.]; ácido\n\t\t\t\t glutámico [Pt.]; glutamato\n"
+    },
+    "38": {
+        "sin": "AG (sg)\n",
+        "galego": "ácido graxo      m",
+        "dominio": "\t\t Bioquímica",
+        "es": "ácido graso; AG (sg)\n",
+        "en": "FA (sg); fatty acid\n",
+        "pt": "ácido graxo; AG (sg)\fVocabulario\n25\n"
+    },
+    "39": {
+        "galego": "ácido láctico      m",
+        "dominio": "\t\t Bioquímica",
+        "es": "ácido láctico\n",
+        "en": "lactic acid\n",
+        "pt": "ácido láctico [Pt.]; ácido lático [Br.]\nácido nicotínico      \nVid.- vitamina B3\n"
+    },
+    "40": {
+        "galego": "ácido nucleico      m",
+        "dominio": "Bioquímica",
+        "es": "ácido nucleico\n",
+        "en": "nucleic acid\n",
+        "pt": "ácido nucléico\n"
+    },
+    "41": {
+        "sin": "ARN (sg); RNA(sg)\n",
+        "galego": "ácido ribonucleico      m",
+        "dominio": "\t\t Bioquímica",
+        "es": "ácido ribonucleico; ARN (sg);\nRNA (sg)\n",
+        "en": "ribonucleic acid; RNA (sg)\n",
+        "pt": "ácido ribonucléico; ARN (sg);\nRNA (sg)\n"
+    },
+    "42": {
+        "galego": "ácido salicílico      m",
+        "dominio": "\t\t Farmacoloxía",
+        "es": "ácido salicílico\n",
+        "en": "salicylic acid\n",
+        "pt": "ácido salicílico\n"
+    },
+    "43": {
+        "galego": "ácido úrico      m",
+        "dominio": "Bioquímica",
+        "es": "ácido úrico\n",
+        "en": "uric acid\n",
+        "pt": "ácido úrico\n"
+    },
+    "44": {
+        "galego": "acidose      f",
+        "dominio": "Etiopatoxenia",
+        "es": "acidosis\n",
+        "en": "acidosis\n",
+        "pt": "acidose\n"
+    },
+    "45": {
+        "galego": "aciduria      f",
+        "dominio": "Semioloxía",
+        "es": "aciduria\n",
+        "en": "aciduria\n",
+        "pt": "acidúria\n"
+    },
+    "46": {
+        "galego": "acinesia      f",
+        "dominio": "\t\t Semioloxía",
+        "es": "acinesia\n",
+        "en": "akinesia; akinesis\n",
+        "pt": "acinesia\n"
+    },
+    "47": {
+        "galego": "ácino      m",
+        "dominio": "Histoloxía",
+        "es": "acino\n",
+        "en": "acinus\n",
+        "pt": "ácino\n*aclaramento      Vid.- depuración\n*aclaramento de creatinina      \nVid.- depuración de creatinina\n*aclaramento de urea      \nVid.- depuración de urea\n"
+    },
+    "48": {
+        "var": " anaclorhidria\n",
+        "galego": "aclorhidria      f",
+        "dominio": "\t\t Etiopatoxenia        Semioloxía",
+        "es": "aclorhidria; anaclorhidria\n",
+        "en": "achlorhydria; anachlorhydria\n",
+        "pt": "acloridria; anacloridria\nACM      Vid.- arteria cerebral media\n"
+    },
+    "49": {
+        "nota": " Evítese “acné”.\fVocabulario\n26\n*acné      Vid.- acne\n",
+        "sin": " acne vulgar\n",
+        "galego": "acne      f",
+        "dominio": "Patoloxías",
+        "es": "acné; acné vulgar\n",
+        "en": "acne; acne vulgaris\n",
+        "pt": "acne; acne vulgar\n"
+    },
+    "50": {
+        "sin": " rosácea\n",
+        "galego": "acne rosácea      f",
+        "dominio": "Patoloxías",
+        "es": "acné rosácea; rosácea\n",
+        "en": "acne rosacea; rosacea\n",
+        "pt": "acne rosácea; rosácea\nacne vulgar      Vid.- acne\n"
+    },
+    "51": {
+        "galego": "acolia      f",
+        "dominio": "\t\t Etiopatoxenia",
+        "es": "acolia\n",
+        "en": "acholia\n",
+        "pt": "acolia\n"
+    },
+    "52": {
+        "nota": " Designa o ‘proceso de adaptación que\nrealizan o músculo ciliar e o cristalino para\naxustar o ollo á visión a distintas distancias’.\n",
+        "galego": "acomodación      f",
+        "dominio": "Fisioloxía",
+        "es": "acomodación\n",
+        "en": "accommodation\n",
+        "pt": "acomodação\n\t\t "
+    },
+    "53": {
+        "nota": " Designa o ‘conxunto de modificacións\nsomáticas ou fisiolóxicas que un organismo\npresenta como adaptación ao medio en que\nvive e que non se transmiten por medio da\nherdanza’\n",
+        "galego": "acomodación      f",
+        "dominio": "Fisioloxía",
+        "es": "acomodación\n",
+        "en": "accommodation\n",
+        "pt": "acomodação\n\t\t "
+    },
+    "54": {
+        "galego": "acondroplasia      f",
+        "dominio": "Patoloxías",
+        "es": "acondroplasia\n",
+        "en": "achondroplasia\n",
+        "pt": "acondroplasia\n"
+    },
+    "55": {
+        "sin": " consello xenético\n",
+        "galego": "aconsellamento xenético      m",
+        "dominio": "\t\t Xenética",
+        "es": "consejo genético\n",
+        "en": "genetic counseling; genetic\n\t\t\t\t counselling\n",
+        "pt": "aconselhamento genético\n"
+    },
+    "56": {
+        "sin": " evento\n",
+        "galego": "acontecemento      m",
+        "dominio": "\t\t Epidemioloxía",
+        "es": "evento; suceso\n",
+        "en": "event\n",
+        "pt": "acontecimento; evento\n"
+    },
+    "57": {
+        "sin": " evento sentinela\n",
+        "galego": "acontecemento sentinela      m",
+        "dominio": "\t\t Epidemioloxía",
+        "es": "evento centinela; suceso centinela\n",
+        "en": "sentinel event\n",
+        "pt": "evento sentinela\nACP          Vid. artera cerebral posterior\n"
+    },
+    "58": {
+        "galego": "acrocianose      f",
+        "dominio": "\t\t Patoloxías        Semioloxía",
+        "es": "acrocianosis\n",
+        "en": "acrocyanosis\n",
+        "pt": "acrocianose\nacrocinese      Vid.- acrocinesia\n"
+    },
+    "59": {
+        "var": " acrocinese\n",
+        "galego": "acrocinesia      f",
+        "dominio": "\t\t Semioloxía",
+        "es": "acrocinesia; acrocinesis\n",
+        "en": "acrocinesia; acrocinesis; acrokinesia\n",
+        "pt": "acrocinesia\nacromasia      Vid.- acromía\nacromatopsia parcial      \nVid.- daltonismo\f"
+    }
+}

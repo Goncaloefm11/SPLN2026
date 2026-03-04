@@ -1,0 +1,417 @@
+Vocabulario
+21
+A Vid.- adenina
+1 á f
+Anatomía
+es ala
+en wing
+pt asa
+la ala
+2 a termo      a
+Fisioloxía
+es a término
+en full term
+pt a termo
+3 abdome      m
+Anatomía
+		 SIN.- rexión abdominal (f); panza [pop.]
+es abdomen; panza [pop.]; región
+				 abdominal
+en abdomen; abdominal region; gut
+				 [pop.]
+pt abdome; abdômen [Br.];
+abdómen [Pt.]; barriga [pop.];
+região abdominal
+la abdomen
+4 abdome agudo      m
+			 Semioloxía
+es abdomen agudo
+en acute abdomen
+pt abdome agudo; abdômen agudo
+				 [Br.]; abdómen agudo [Pt.]
+abdome distendido      
+Vid.- abdome globuloso
+5 abdome en táboa      m
+Semioloxía
+		 SIN.- ventre de madeira
+es abdomen en tabla
+en abdominal guarding
+pt abdome em tábua; abdômen em
+				 tábua [Br.]; abdómen em tábua [Pt.]
+6 abdome globuloso      m
+Semioloxía
+		 SIN.- abdome prominente; abdome
+		 distendido
+es abdomen distendido; abdomen
+				 globuloso; abdomen prominente
+en distended abdomen
+pt abdome distendido; abdômen
+				 distendido [Br.]; abdómen
+				 distendido [Pt.]
+abdome prominente      
+Vid.- abdome globuloso
+		 *abducción      Vid.- abdución
+7 abdución      f
+		 Fisioloxía        Anatomía
+		 SIN.- separación
+es abducción; separación
+en abduction
+pt abdução; separação
+la abductio
+Nota.- Evítese “abducción”.
+aberración cromosómica      
+Vid.- anomalía cromosómica
+8 abertura inferior da pelve      f
+Anatomía
+		 SIN.- estreito inferior da pelve (m)
+es estrecho inferior de la pelvis
+en pelvic outlet
+pt abertura inferior da pelve; estreito
+				 inferior da pelve
+la apertura pelvis inferior
+9 abertura superior da pelve      f
+Anatomía
+		 SIN.- estreito superior da pelve (m)
+es estrecho superior de la pelvis
+en pelvic inlet
+pt abertura superior da pelve; estreito
+				 superior da pelve
+la apertura pelvis superiorVocabulario
+22
+10 ablación      f
+		 Terapéutica
+es ablación
+en ablation
+pt ablação
+ablación do clítoris      
+Vid.- clitoridectomía
+11 abordaxe      f
+		 Terapéutica
+es abordaje
+en approach
+pt abordagem
+		 abrasión      Vid.- erosión
+12 absceso      m
+		 Semioloxía        Anatomía patolóxica
+es absceso
+en abscess
+pt abscesso
+13 abulia      f
+Semioloxía
+es abulia
+en aboulia; abulia
+pt abulia
+14 abuso de substancias      m
+		 Termos xerais
+es abuso de sustancias
+en substance abuse
+pt abuso de substâncias
+Ac      Vid.- anticorpo
+			 ACA      Vid.- arteria cerebral anterior
+acabado -da de nacer     
+Vid.- neonato -ta
+15 acalasia      f
+		 Patoloxías
+es acalasia
+en achalasia
+pt acalasia; acalásia
+16 acantólise      f
+		 Semioloxía
+es acantolisis
+en acantholysis
+pt acantólise
+17 acantose nigricans      f
+		 Patoloxías
+es acantosis nigricans
+en acanthosis nigricans
+pt acantose nigricans
+18 ácaro      m
+Etiopatoxenia
+es ácaro
+en acarus
+pt ácaro
+acceso      Vid.- ataque
+accidente cerebrovascular      
+Vid.- ictus
+19 accidente de traballo      m
+		 Termos xerais
+			 SIN.- accidente laboral
+es accidente de trabajo; accidente
+				 laboral
+en work accident
+pt acidente de trabalhoVocabulario
+23
+20 accidente isquémico
+transitorio      m
+		 Semioloxía        Patoloxías
+		 SIN.- ataque isquémico transitorio;AIT
+		 (sg)
+es accidente isquémico transitorio; AIT
+				 (sg); ataque isquémico transitorio
+en TIA (sg); transient ischemic attack
+pt acidente isquêmico transitório; AIT
+				 (sg); ataque isquêmico transitório
+		 accidente laboral      
+Vid.- accidente de traballo
+		 accidente vascular cerebral      
+Vid.- ictus
+acedía Vid.- pirose
+acedume Vid.- pirose
+21 aceptación      f
+Fisioloxía
+es aceptación
+en acceptance
+pt aceitação
+22 acetábulo      m
+Anatomía
+		 SIN.- cavidade cotiloide (f)
+es acetábulo; cavidad cotiloidea
+en acetabulum; cotyloid cavity
+pt acetábulo; cavidade cotilóide
+la acetabulum
+acetaminofén      Vid.- paracetamol
+acetil-CoA      Vid.- acetilcoenzimaA
+23 acetilcoenzima A      m
+		 Bioquímica
+		 SIN.- acetil-CoA
+es acetil-CoA; acetil-coenzima A
+en acetyl-CoA; acetyl-coenzyme A
+pt acetil-CoA; acetil-coenzima A
+24 acetilcolina      f
+			 Bioquímica        Fisioloxía
+		 SIN.-ACh (sb)
+es acetilcolina
+en acetylcholine
+pt acetilcolina
+ACh      Vid.- acetilcolina
+acía      Vid.- pirose
+25 acidemia      f
+		 Semioloxía
+es acidemia
+en acidemia
+pt acidemia
+acidez      Vid.- pirose
+26 acidificación      f
+		 Terapéutica
+es acidificación
+en acidification
+pt acidificação
+27 acidificante      m
+Farmacoloxía
+es acidificante
+en acidifier
+pt acidificanteVocabulario
+24
+28 ácido acetilsalicílico      m
+		 Farmacoloxía
+es ácido acetilsalicílico
+en acetylsalicylic acid
+pt ácido acetilsalicílico
+ácido aminoacético      Vid.- glicina
+29 ácido aminosalicílico      m
+		 Farmacoloxía
+es ácido aminosalicílico
+en aminosalicylic acid
+pt ácido aminossalicílico
+30 ácido araquidónico      m
+		 Bioquímica
+es ácido araquidónico
+en arachidonic acid
+pt ácido araquidônico [Br.]; ácido
+				 araquidónico [Pt.]
+ácido ascórbico      Vid.- vitamina C
+31 ácido aspártico      m
+Bioquímica
+		 SIN.-Asp (sb)
+es ácido aspártico
+en aspartic acid
+pt ácido aspártico
+32 ácido biliar      m
+		 Bioquímica
+es ácido biliar
+en bile acid
+pt ácido biliar
+33 ácido clorhídrico      m
+		 Bioquímica        Fisioloxía
+		 SIN.- HCl (sb)
+es ácido clorhídrico
+en hydrochloric acid
+pt ácido clorídrico
+34 ácido desoxirribonucleico      m
+		 Bioquímica
+		 SIN.-ADN; (sg) DNA(sg)
+es ácido desoxirribonucleico;
+ADN (sg); DNA (sg)
+en deoxyribonucleic acid;
+deoxyribonucleic acid; DNA (sg)
+pt ácido desoxirribonucléico;
+ADN (sg); DNA (sg)
+35 ácido fólico      m
+		 Bioquímica
+es ácido fólico
+en folic acid
+pt ácido fólico
+36 ácido gamma-aminobutírico     m
+		 Bioquímica        Fisioloxía
+		 SIN.- GABA(sg)
+es ácido gamma-aminobutírico;
+GABA (sg)
+en GABA (sg); gamma-aminobutyric
+				 acid
+pt ácido gama-aminobutírico;
+GABA (sg)
+37 ácido glutámico      m
+		 Bioquímica        Fisioloxía
+		 SIN.- glutamato; Glu (sb)
+es ácido glutámico; glutamato
+en glutamate; glutamic acid
+pt ácido glutâmico [Br.]; ácido
+				 glutámico [Pt.]; glutamato
+38 ácido graxo      m
+		 Bioquímica
+		 SIN.-AG (sg)
+es ácido graso; AG (sg)
+en FA (sg); fatty acid
+pt ácido graxo; AG (sg)Vocabulario
+25
+39 ácido láctico      m
+		 Bioquímica
+es ácido láctico
+en lactic acid
+pt ácido láctico [Pt.]; ácido lático [Br.]
+ácido nicotínico      
+Vid.- vitamina B3
+40 ácido nucleico      m
+Bioquímica
+es ácido nucleico
+en nucleic acid
+pt ácido nucléico
+41 ácido ribonucleico      m
+		 Bioquímica
+		 SIN.-ARN (sg); RNA(sg)
+es ácido ribonucleico; ARN (sg);
+RNA (sg)
+en ribonucleic acid; RNA (sg)
+pt ácido ribonucléico; ARN (sg);
+RNA (sg)
+42 ácido salicílico      m
+		 Farmacoloxía
+es ácido salicílico
+en salicylic acid
+pt ácido salicílico
+43 ácido úrico      m
+Bioquímica
+es ácido úrico
+en uric acid
+pt ácido úrico
+44 acidose      f
+Etiopatoxenia
+es acidosis
+en acidosis
+pt acidose
+45 aciduria      f
+Semioloxía
+es aciduria
+en aciduria
+pt acidúria
+46 acinesia      f
+		 Semioloxía
+es acinesia
+en akinesia; akinesis
+pt acinesia
+47 ácino      m
+Histoloxía
+es acino
+en acinus
+pt ácino
+*aclaramento      Vid.- depuración
+*aclaramento de creatinina      
+Vid.- depuración de creatinina
+*aclaramento de urea      
+Vid.- depuración de urea
+48 aclorhidria      f
+		 Etiopatoxenia        Semioloxía
+		 VAR.- anaclorhidria
+es aclorhidria; anaclorhidria
+en achlorhydria; anachlorhydria
+pt acloridria; anacloridria
+ACM      Vid.- arteria cerebral media
+49 acne      f
+Patoloxías
+		 SIN.- acne vulgar
+es acné; acné vulgar
+en acne; acne vulgaris
+pt acne; acne vulgar
+Nota.- Evítese “acné”.Vocabulario
+26
+*acné      Vid.- acne
+50 acne rosácea      f
+Patoloxías
+		 SIN.- rosácea
+es acné rosácea; rosácea
+en acne rosacea; rosacea
+pt acne rosácea; rosácea
+acne vulgar      Vid.- acne
+51 acolia      f
+		 Etiopatoxenia
+es acolia
+en acholia
+pt acolia
+52 acomodación      f
+Fisioloxía
+es acomodación
+en accommodation
+pt acomodação
+		 Nota.- Designa o ‘proceso de adaptación que
+realizan o músculo ciliar e o cristalino para
+axustar o ollo á visión a distintas distancias’.
+53 acomodación      f
+Fisioloxía
+es acomodación
+en accommodation
+pt acomodação
+		 Nota.- Designa o ‘conxunto de modificacións
+somáticas ou fisiolóxicas que un organismo
+presenta como adaptación ao medio en que
+vive e que non se transmiten por medio da
+herdanza’
+54 acondroplasia      f
+Patoloxías
+es acondroplasia
+en achondroplasia
+pt acondroplasia
+55 aconsellamento xenético      m
+		 Xenética
+			 SIN.- consello xenético
+es consejo genético
+en genetic counseling; genetic
+				 counselling
+pt aconselhamento genético
+56 acontecemento      m
+		 Epidemioloxía
+		 SIN.- evento
+es evento; suceso
+en event
+pt acontecimento; evento
+57 acontecemento sentinela      m
+		 Epidemioloxía
+		 SIN.- evento sentinela
+es evento centinela; suceso centinela
+en sentinel event
+pt evento sentinela
+ACP          Vid. artera cerebral posterior
+58 acrocianose      f
+		 Patoloxías        Semioloxía
+es acrocianosis
+en acrocyanosis
+pt acrocianose
+acrocinese      Vid.- acrocinesia
+59 acrocinesia      f
+		 Semioloxía
+		 VAR.- acrocinese
+es acrocinesia; acrocinesis
+en acrocinesia; acrocinesis; acrokinesia
+pt acrocinesia
+acromasia      Vid.- acromía
+acromatopsia parcial      
+Vid.- daltonismo
